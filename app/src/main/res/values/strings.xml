@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">design1assignment7</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="sharemac">SHAREMAC</string>
+    <string name="service_app">Service app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_pass">forget password?</string>
+    <string name="or">or</string>
+    <string name="google">Continue with Google account</string>
+    <string name="sign_in">ign In</string>
+
+</resources>
